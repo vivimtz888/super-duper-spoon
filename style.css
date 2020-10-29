@@ -1,0 +1,20 @@
+.container {
+    display: flexbox;
+}
+
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.list {
+    flex-direction: column;
+    justify-content: left;
+}
+
+.card-2 {
+    justify-content: center;
+}
+
